@@ -22,3 +22,6 @@ display: inline-block;
 .container-imagem{
     padding: 1em;
 }
+.lista-menu{
+    display: none;
+}
